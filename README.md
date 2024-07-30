@@ -1,6 +1,11 @@
+- Inspired by https://github.com/codebucks27
+
 ## Resources Used in This Project
 
 #### 3D Models
+
+- "In space (female)" (https://skfb.ly/6CzET) by Vintar is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Ringed Gas Giant Planet" (https://skfb.ly/o8Bz8) by berzerkey is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 #### AI Images
 
