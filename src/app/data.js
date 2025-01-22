@@ -8,10 +8,10 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: 'Project 2',
-    description: 'Project 2 Description',
-    date: '2022-06-20',
-    demoLink: 'https://artgalleryonline.example.com',
+    name: '50 Projects in 50 Days',
+    description: '50 Projects built using HTML, CSS, and JS.',
+    date: '2024-12-02',
+    demoLink: 'https://danaaltier.dev/50ProjectsIn50Days/',
   },
   {
     id: 3,
