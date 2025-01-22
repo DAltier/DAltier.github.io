@@ -10,7 +10,7 @@ export const projectsData = [
     id: 2,
     name: '50 Projects in 50 Days',
     description: '50 Projects built using HTML, CSS, and JS.',
-    date: '2024-12-02',
+    date: '2024-12-16',
     demoLink: 'https://danaaltier.dev/50ProjectsIn50Days/',
   },
   {
