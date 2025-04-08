@@ -1,10 +1,10 @@
 export const projectsData = [
   {
     id: 1,
-    name: 'AFH Website',
-    description: 'Adult Family Home Website built using WordPress.',
-    date: '2020-08-15',
-    demoLink: 'https://gbcafh.com/',
+    name: '20 JS Projects',
+    description: '20 JavaScript Projects built using HTML, CSS, and JS.',
+    date: '2022-04-01',
+    demoLink: 'https://danaaltier.dev/ZTMJSProjects/',
   },
   {
     id: 2,
@@ -15,10 +15,10 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: 'Project 3',
-    description: 'Project 3 Description',
-    date: '2022-09-10',
-    demoLink: 'https://budgetplanner.example.com',
+    name: 'AFH Website',
+    description: 'Adult Family Home Website built using WordPress.',
+    date: '2020-08-15',
+    demoLink: 'https://gbcafh.com/',
   },
   {
     id: 4,
